@@ -1,4 +1,4 @@
-package LeetCode.LeetCode75;
+package LeetCode75;
 public class MostWater {
     public static void main(String[] args) {
         int[] height = {1,8,6,2,5,4,8,3,7};
