@@ -1,6 +1,5 @@
 package LeetCode75;
 
-import java.util.ArrayList;
 
 public class ProductOfArrayExceptSelf {
     public static void main(String[] args) {

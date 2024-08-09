@@ -1,6 +1,4 @@
-package LeetCode.LeetCode75;
-
-import java.lang.runtime.TemplateRuntime;
+package LeetCode75;
 
 public class MaxDepthBinaryTree {
      int val;
