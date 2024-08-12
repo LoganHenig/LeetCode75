@@ -1,5 +1,4 @@
-package LeetCode.LeetCode75;
-import java.util.Arrays;
+package LeetCode75;
 
 public class CombineWords {
     public static void main(String[] args){

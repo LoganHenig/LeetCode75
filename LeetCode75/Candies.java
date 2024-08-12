@@ -1,6 +1,5 @@
-package LeetCode.LeetCode75;
+package LeetCode75;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Candies {
     public static void main(String[] args){
