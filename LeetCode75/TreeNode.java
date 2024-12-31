@@ -20,6 +20,7 @@ public class TreeNode {
         this.left = tn.left;
         this.right = tn.right;
     }
+    //I took this code from Stack overflow
     public static TreeNode createTree(Integer[] array) {
         if (array == null || array.length==0) {
             return null;
